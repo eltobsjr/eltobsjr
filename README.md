@@ -64,7 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" />
 </div>
-###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/eltobsjr/eltobsjr/output/github-contribution-grid-snake.svg" />
 </div>
