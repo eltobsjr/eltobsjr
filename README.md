@@ -38,7 +38,7 @@
   src="https://gh-stats-ruddy.vercel.app/api/langs?user=eltobsjr&theme=dark" 
   alt="Top Languages" />
     <img 
-  src="https://gh-stats-ruddy.vercel.app/api/stats?user=eltobsjr&theme=dark" 
+  src="https://gh-stats-ruddy.vercel.app/api/rpg?user=eltobsjr&theme=dark" 
   alt="GitHub Stats" />
 </div>
 
