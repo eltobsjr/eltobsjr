@@ -27,10 +27,8 @@
 ###
 
 <p align="left">
-🎓 Graduate of the Integrated Technical Program in Information Technology at IFPI – Campus Picos <br>
+🎓 grduado of the Integrated Technical Program in Information Technology and curing ADS at IFPI – Campus Picos <br>
 💡 Passionate about Computing, Robotics and Artificial Intelligence <br>
-🚀 Focused on building real-world tech solutions <br>
-🎯 My goal: create innovative solutions that positively impact people's lives
 </p>
 
 <div align="center">
