@@ -33,10 +33,15 @@
 🎯 My goal: create innovative solutions that positively impact people's lives
 </p>
 
-<p align="left">
-  	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltobsjr&theme=github_dark" alt="Top Languages" width="320" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltobsjr&theme=github_dark" alt="Nailan-Nobre GitHub Stats" width="560" />
-</p>
+<div align="center">
+    <img 
+  src="https://gh-stats-ruddy.vercel.app/api/langs?user=eltobsjr&theme=dark" 
+  alt="Top Languages" />
+    <img 
+  src="https://gh-stats-ruddy.vercel.app/api/stats?user=eltobsjr&theme=dark" 
+  alt="GitHub Stats" />
+</div>
+
 
 ###
 
