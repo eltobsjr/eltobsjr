@@ -35,7 +35,7 @@
 
 <p align="left">
   	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eltobsjr&theme=github_dark" alt="Top Languages" width="320" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltobsjr&theme=github_dark" alt="Nailan-Nobre GitHub Stats" width="660" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltobsjr&theme=github_dark" alt="Nailan-Nobre GitHub Stats" width="560" />
 </p>
 
 ###
